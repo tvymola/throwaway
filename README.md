@@ -1,2 +1,0 @@
-# throwaway
-Practice Git
